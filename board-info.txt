@@ -1,0 +1,4 @@
+require version-baseband=1.0.c4-00203-SDX55_RMTEFS_PACK-1.235147.26
+require version-baseband=1.0.r1.1-00035-SM8150_GENNM_PACK-1
+require version-trustzone=TZ.XF.5.2-00140
+require version-vendor=1575461384
